@@ -33,7 +33,7 @@ This system bridges the gap between code and documentation, producing output tha
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/autodocai.git
+git clone https://github.com/CEORocks/autodocai.git
 cd autodocai
 pip install -r requirements.txt
 ```
